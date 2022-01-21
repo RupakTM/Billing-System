@@ -1,0 +1,27 @@
+.error{
+	font-size: 1rem;
+	color: rgb(255,0,0);
+	width: 100%;
+}
+
+
+
+form.user .form-control-user {
+	width: 100%;
+}
+
+.form-control{
+	width: 100%;
+}
+
+#custom-color{
+	color:rgb(181,181,181);
+}
+
+/*.custom-btn .btn{
+	font-size: 10px;
+}
+
+.custom-btn .fas{
+	font-size: 10px;
+}*/
